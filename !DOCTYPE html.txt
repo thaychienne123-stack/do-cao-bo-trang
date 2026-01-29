@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<title>Phở Nam Định</title>
+<style>
+body{
+    font-family: Arial;
+    margin:0;
+    background:#f7f7f7;
+}
+header{
+    background:#b22222;
+    color:white;
+    text-align:center;
+    padding:25px;
+}
+nav{
+    background:#333;
+    text-align:center;
+    padding:10px;
+}
+nav a{
+    color:white;
+    text-decoration:none;
+    margin:0 15px;
+    font-weight:bold;
+}
+nav a:hover{color:#ffd966;}
+.container{
+    padding:20px;
+    max-width:1000px;
+    margin:auto;
+}
+section{
+    background:white;
+    margin-bottom:30px;
+    padding:25px;
+    border-radius:15px;
+    box-shadow:0 4px 10px rgba(0,0,0,.15);
+}
+section h2{
+    color:#b22222;
+}
+section img{
+    width:100%;
+    max-height:350px;
+    object-fit:cover;
+    border-radius:12px;
+    margin:15px 0;
+}
+p{
+    font-size:16px;
+    line-height:1.6;
+    text-align:justify;
+    color:#333;
+}
+footer{
+    background:#333;
+    color:white;
+    text-align:center;
+    padding:15px;
+    margin-top:30px;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+    <h1>🍜 PHỞ NAM ĐỊNH 🍜</h1>
+    <p>Tinh hoa ẩm thực truyền thống – Gìn giữ hương vị quê hương</p>
+</header>
+
+<nav>
+    <a href="#gioithieu">Giới thiệu</a>
+    <a href="#botai">Phở bò tái</a>
+    <a href="#bochin">Phở bò chín</a>
+    <a href="#phoga">Phở gà ta</a>
+    <a href="#dacbiet">Phở đặc biệt</a>
+</nav>
+
+<div class="container">
+
+<section id="gioithieu">
+<h2>Giới thiệu quán Phở Nam Định</h2>
+<p>
+Phở Nam Định là quán phở gia truyền, nổi tiếng với nước dùng trong, ngọt tự nhiên từ xương bò và xương gà
+được ninh nhiều giờ. Quán giữ nguyên công thức nấu phở truyền thống của người Nam Định,
+giúp mỗi tô phở đều mang hương vị quê hương đậm đà, khó quên.
+</p>
+</section>
+
+<section id="botai">
+<h2>🍜 Phở bò tái</h2>
+<img src="https://images.unsplash.com/photo-1604908177522-937a07b9f0d0">
+<p>
+Phở bò tái là món phở được nhiều thực khách yêu thích nhất. Thịt bò được thái lát mỏng,
+khi chan nước dùng sôi vào thì thịt vừa chín tới, giữ trọn vị ngọt tự nhiên.
+Nước dùng được ninh từ xương bò trong nhiều giờ, trong veo nhưng đậm đà,
+thơm mùi quế, hồi, gừng nướng và hành khô.
+</p>
+<p>
+Bánh phở mềm, dai nhẹ, ăn kèm hành lá và rau thơm giúp hương vị càng thêm tròn đầy.
+Món phở này đặc biệt ngon khi ăn vào buổi sáng hoặc những ngày se lạnh.
+</p>
+</section>
+
+<section id="bochin">
+<h2>🍜 Phở bò chín</h2>
+<img src="https://images.unsplash.com/photo-1604908177522-937a07b9f0d0">
+<p>
+Phở bò chín sử dụng phần thịt bò được hầm kỹ cho đến khi mềm nhưng không nát.
+Nước dùng đậm đà, có vị béo nhẹ từ xương bò, rất dễ ăn và phù hợp với mọi lứa tuổi.
+</p>
+<p>
+Đây là món phở quen thuộc của nhiều gia đình, đặc biệt thích hợp cho người không quen ăn thịt tái.
+</p>
+</section>
+
+<section id="phoga">
+<h2>🍜 Phở gà ta</h2>
+<img src="https://images.unsplash.com/photo-1589308078054-832a95c2c9d9">
+<p>
+Phở gà ta mang hương vị thanh nhẹ, tinh tế. Gà ta được luộc chín vừa,
+thịt dai ngon, không bở. Nước dùng được ninh từ xương gà, trong veo và ngọt tự nhiên.
+</p>
+<p>
+Khi ăn, thêm chút lá chanh thái sợi, món phở trở nên thơm hơn, dễ ăn và không ngấy.
+</p>
+</section>
+
+<section id="dacbiet">
+<h2>🍜 Phở đặc biệt</h2>
+<img src="https://images.unsplash.com/photo-1604908177522-937a07b9f0d0">
+<p>
+Phở đặc biệt là sự kết hợp đầy đủ các loại thịt ngon nhất như tái, chín, gầu và nạm.
+Tô phở đầy đặn, nước dùng đậm đà, thơm mùi gia vị truyền thống,
+mang đến trải nghiệm trọn vẹn tinh hoa phở Nam Định.
+</p>
+<p>
+Đây là món phở được nhiều thực khách lựa chọn khi muốn thưởng thức đủ vị chỉ trong một tô phở.
+</p>
+</section>
+
+</div>
+
+<footer>
+<p>© 2026 Phở Nam Định – Tinh hoa ẩm thực Việt</p>
+</footer>
+
+</body>
+</html>
